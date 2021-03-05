@@ -1,0 +1,6 @@
+{
+    "KEY" : "85b528fa62381ecc1284086718bedefc",
+    "HOST": "api.themoviedb.org",
+    "PATH": "/3/search/movie", 
+    "PATH_GENRE": "/3/genre/movie/list"
+}
